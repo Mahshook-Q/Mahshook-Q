@@ -1,21 +1,78 @@
-![MasterHead](https://media.licdn.com/dms/image/D5616AQFYBWP5DpT9sg/profile-displaybackgroundimage-shrink_350_1400/0/1676540935200?e=1681948800&v=beta&t=JOVUauOFBfNL-U4t5zpfmOTgjBM9jKePIyFQ0bqOHIA)
-<h1 align="center">Hi, I'm Mohammed Mahshook</h1>
-<h3 align="center">An aspiring Quantum Physicist from India</h3>
-<img align="right" alt="Coding" width="400" src="https://th.bing.com/th/id/OIP._J8lc8P4-gHdWmIYF5gYkAHaE7?w=261&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7">
-- 🔭 I’m currently working towards improving multiple qubit gate fidelities in a neutral atom-based Quantum Computing architecture. I also explore the effective implementation of quantum algorithms for near-term devices.
+<h1 align="center">Hi, I'm Mohammed Mahshook 👋</h1>
+<h3 align="center">PhD Researcher | Computational Condensed Matter Physics</h3>
 
-- 🌱 I’m currently learning Microsoft's Q# programming language and long-distance Quantum Coherent Communication.
-
-- 👯 I’m looking to collaborate on Quantum Computing, Data Science and AI related projects in my free time.
-
-- 💬 Ask me about Quantum Mechanics, Introductory Quantum Computing and Communication, Machine Learning and Data Science, and advancements in Quantum technology related areas.
-
-- 📫 You can reach me at mohammedmahshook70@gmail.com.
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/mohammed-mahshook" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammed-mahshook" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://linkedin.com/in/mohammed-mahshook" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
+  </a>
+  &nbsp;
+  <a href="mailto:mohammedmahshook70@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
+
+## 🔬 About Me
+
+I'm a PhD student in **Computational Condensed Matter Physics** at **SRMIST, Kattankulathur, India**, working in the **[MAVENs](https://mavens-group.github.io/) Research Group**, which focuses on **computational materials discovery** at the intersection of machine learning and first-principles methods.
+
+My research is centered on **accelerating materials discovery using AI** — combining the predictive power of machine learning with the physical rigor of DFT-based simulations.
+
+---
+
+## 🧠 Research Interests
+
+- **Machine Learning Interatomic Potentials (MLIPs)** — developing and benchmarking force fields for large-scale atomistic simulations
+- **Explainable AI (XAI) for Materials Science** — understanding what ML models learn from quantum mechanical data
+- **Wannier-based calculations** — electronic structure analysis and tight-binding model construction
+- **DFT & Quantum ESPRESSO** — ab initio simulations for materials characterization
+- Accelerating the materials discovery pipeline using AI/ML
+
+---
+
+## 🛠️ Skills & Tools
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Fortran](https://img.shields.io/badge/Fortran-734F96?style=flat&logo=fortran&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+
+**ML & Data Science**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+
+**Computational Physics**
+
+![Quantum ESPRESSO](https://img.shields.io/badge/Quantum%20ESPRESSO-4B8BBE?style=flat)
+![Wannier90](https://img.shields.io/badge/Wannier90-2C2D72?style=flat)
+![DFT](https://img.shields.io/badge/DFT%20Simulations-007ACC?style=flat)
+
+**Other Tools**
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+---
+
+## 🤝 Open to Collaboration
+
+I'm open to collaborating on projects involving:
+
+- 🧬 Computational materials discovery
+- 🤖 ML for physical sciences (MLIPs, property prediction, XAI)
+- ⚛️ Quantum information theory and Condensed matter simulations
+- 📊 Scientific data pipelines and visualization
+
+If my skills are useful to your work, feel free to reach out!
+
+---
+
+## 📫 Contact
+
+- **Email:** mahshook.academic@gmail.com
+- **LinkedIn:** [mohammed-mahshook](https://linkedin.com/in/mohammed-mahshook)
